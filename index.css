@@ -1,0 +1,45 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.bg-image{
+    background-image: url("bg image.jpg");
+    height: 700px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+.nav-link{
+    color: white !important;
+}
+.title{
+  
+    text-align: center;
+    color: rgb(252, 252, 255);
+    padding-top: 14rem;
+   
+}
+.card{
+    width: 100%;
+    height: auto;
+    padding: 20px;
+}
+button{
+    padding: 5px 30px;
+    font-size: 2rem;
+    color: white;
+    font-weight: bold;
+}
+button:hover{
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+input{
+    padding: 7px 30px;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
